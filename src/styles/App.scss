@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+body {
+  background-color: #a0cbcf;
+}
+
+@import "./header";
+@import "./images";
+@import "./nav";
+@import "./search";

@@ -1,0 +1,24 @@
+.nav {
+  margin: auto;
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+  width: 75%;
+  justify-content: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+ul a {
+  display: inline-block;
+  background-color: black;
+  text-align: center;
+  width: 150px;
+  color: white;
+  padding: 5px 10px;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 12px;
+  border-radius: 5px;
+}
